@@ -77,3 +77,4 @@ Conteúdo gerado por: ChatGPT e revisões humanas
 
 https://web.dio.me/articles/analise-de-dados-com-r-e-machine-learning-uma-introducao?back=%2Farticles&open-modal=true&page=1&order=oldest
 
+prj/www/tec-write
