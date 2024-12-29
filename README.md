@@ -10,7 +10,7 @@
 
 <h1>Dez24: Utilizando recursos GitHub</h1>
 <p>Ùltimo curso de atualização das ferramentas GitHub. Tarefas a realizar: </p>
-- ( ) Fazer Fork em algum projeto open source (seu ou de outra pessoa); <br>
-- ( ) Fazer auterações em outro branch; <br>
-- ( ) Abrir um issue; <br>
-- ( ) Fazer um pull request solicitando que o proprietário faça o merge.
+- ( X ) Fazer Fork em algum projeto open source (seu ou de outra pessoa); <br>
+- ( X ) Fazer auterações em outro branch; <br>
+- ( X ) Abrir um issue; <br>
+- ( X ) Fazer um pull request solicitando que o proprietário faça o merge.
