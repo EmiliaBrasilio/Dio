@@ -1,4 +1,2 @@
-Bootcamp about web development
-1. preparando vscode:
- liveserver
- emmet (pré instalado)
+Jul25: Primeiro web site básico apenas com as tags aprendidas no curso inicial. 
+    --> preparando vscode: plug-ins instalados: liveserver e emmet (pré instalado)
